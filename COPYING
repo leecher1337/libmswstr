@@ -1,0 +1,5 @@
+I had to reverse engineer the mswstr.dll in order to get the translation 
+tables. Unless someone uses the information gathered by reading this library
+to write a proper library with a proper license.
+So I guess I can't claim copyright for this code.
+Therefore regarding license I can just say: Take it or leave it.
