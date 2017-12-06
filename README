@@ -23,7 +23,7 @@ ftp.gnu.org.
 Installation from source:
 =========================
 
-Last version is available at https://github.com/leecher1337/libmswstr
+Lastest version is available at https://github.com/leecher1337/libmswstr
 
   $ libtoolize
   $ aclocal
